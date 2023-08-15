@@ -1,2 +1,2 @@
-# Restaurant_Website
-This is a responsive restaurant website made using html and css
+# Website-using-html-and-css
+Responsive Front page of a restaurant with  html and css

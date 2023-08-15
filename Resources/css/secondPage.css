@@ -1,0 +1,199 @@
+body{
+    margin: auto;
+    background-color: black;
+}
+
+#header{
+    background-color: white;
+    height:90px;
+    width:100%
+}
+
+.logo{
+    height: 30px;
+    width: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#heading{
+    color: black;
+    margin:12%;
+}
+
+#social{
+    display: inline-block;
+    margin-top: 22px;
+    margin-left: 90%;
+    margin-bottom: 90;
+}
+.login{
+    
+    margin-left: 1150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    
+}
+.login >a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 22px;
+}
+.account{
+    margin-left: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    display: inline-block;
+    
+    height: 30px;
+    width:50%;    
+    
+}
+#logomain{
+    height: 50px;
+    width:50px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+#main{
+    margin-top: 5%;
+    margin-left: 12%;
+}
+
+#filter{
+    box-shadow: 0px 3px 6px  gray;
+    height: 800px;
+    width:20%;
+    float: left;
+}
+#content{
+    
+    width:65%;
+    float:left;
+    margin-left: 5%;
+    margin-top: -1%;
+    
+
+}
+.list_content{
+    width: 100%;
+    color: blueviolet;
+    height: 300px;
+    margin-top: 2%;
+    box-shadow: 0px 3px 6px  gray
+    
+}
+.breakfast{
+    display: inline-block;
+}
+
+.breakfast img{
+    display: inline-block;
+    height: 120px;
+    width:115px;
+    border-radius: 30%;
+    margin-left: 35px;
+    margin-top: 16px;
+}
+
+.first{
+    margin-left: 28px;
+}
+
+.first h3{
+    letter-spacing: 2px;
+    margin-top: -10px;
+}
+.first h4{
+    margin-top: -10px;
+    color: darkgrey;
+}
+
+.pricetag {
+    display: inline-block;
+    margin-left: 44px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.tag{
+    margin-left: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+}
+.cost {
+    
+    margin-left: 44px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.two{
+    margin-left: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+    display: inline-block;
+}
+
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blanchedalmond;
+}
+
+h2{
+    margin-left: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+}
+
+h3{
+    margin-left: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+}
+
+#dropdown{
+  
+    height: 60px;
+    width: 60%;
+    margin-left: 66%;
+    margin-top: 3%;
+  }
+select{
+    width: 120%;
+    height: 45px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    color: gray;
+    margin-left: -99%;
+  }
+
+#cuisine{
+    margin-left: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+    width: 120px;
+    height: 122px; 
+}
+
+#price{
+    margin-left: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+    width: 140px;
+    height: 120px;   
+}
+
+#sort{
+    margin-left: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+}
+
